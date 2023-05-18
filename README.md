@@ -2,9 +2,10 @@
 A simple C# Program that redirects Steam Games (And all other executables), allowing you to use **Remote Play together** on unsupported games.
 
 ## Usage
-- Download the executable from GitHub Actions
-- Drop it in the folder of the Game you want to replace
-- Rename it to the name of the original Game
+- Clone the Repository
+- Build the Project using your favorite method
+- Drop the executable in the folder of the Game you want to replace
+- Rename it to the executable name of the original Game
 - Open Steam, right-click the original Game and set Launch Options
 - Launch the Game via Steam
 - ???
